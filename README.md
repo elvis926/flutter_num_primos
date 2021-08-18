@@ -1,16 +1,13 @@
 # flutter_numeros_primos
 
-A new Flutter project.
+La aplicacion consite en mostrar todos los numeros pares del 1 al 100 se puede limpiar la pantalla y volver a generar los numeros dentro del codigo se puede determinar el rango de inicio y de fin.
 
-## Getting Started
+Como se muestra en la imagen esta la pantalla sin ningun dato solo con los botones 
+<br>
+![imagen](https://user-images.githubusercontent.com/55716749/129822382-0270398f-4fca-459b-8825-70de352fcda5.png)
 
-This project is a starting point for a Flutter application.
+En la siguiente imagen se muestra los numeros primos de 1 al 100
+<br>
+![imagen](https://user-images.githubusercontent.com/55716749/129822462-172a2981-a6cc-4c77-86a7-4a16999dff35.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
